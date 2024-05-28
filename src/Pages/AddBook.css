@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    justify-content: center;
+}
+
+.form{
+    color: white;
+    
+    width: 70vw;
+}

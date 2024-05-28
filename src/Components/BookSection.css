@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.update{
+    background-color: inherit;
+    color:white;
+    border: 1px solid white;
+    padding: 2px;
+}
+
+.delete{
+    background-color: inherit;
+    color:white;
+    border: 1px solid white;
+    padding: 2px;
+    margin-top: 5px;
+}
